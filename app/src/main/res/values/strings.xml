@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">1004 IDS</string>
+    <string name="app_info">Smart Card Verification</string>
+    <string name="update">Sync</string>
+    <string name="manage_card">Remove Card</string>
+    <string name="write_to_card">Write To Card</string>
+    <string name="verify">Tap Card To Verify</string>
+    <string name="add_new">Tap Card To Add </string>
+    <string name="cluster_no">Cluster </string>
+    <string name="resident_name">Resident Name </string>
+    <string name="enter_details">Enter the details for the card below </string>
+    <string name="remove_card">Tap Card To Remove</string>
+    <string name="ok">OK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
